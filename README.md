@@ -2,7 +2,7 @@
 
 ## Source File Location
 - GitHub code repository - [link](https://github.com/anisyusof-sc/kg-cs6216)
-- code & binary files - [link](https://github.com/anisyusof-sc/kg-cs6216)
+- code & binary files - [link](https://mynbox.nus.edu.sg/a/BDtOGs07Tj8WO047/afc67eea-269e-4f86-9ba9-552cfbdd264c?l)
 
 ## Using Ampligraph
 ### for non-temporal models
